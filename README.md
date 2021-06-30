@@ -41,6 +41,8 @@ You can uninstall the program by running:
 sudo make uninstall
 ```
 
+########make install ################
+
 ### Note:
 No pull requests will be accepted for this repository, as it is meant to be used for demonstration purposes only.  You are free to create a pull request to try it out, but no outside code will be merged into this project.
 
