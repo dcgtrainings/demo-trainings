@@ -1,6 +1,6 @@
 #!/bin/sh
  
-sum=`expr $1 + $2` 2> /dev/null
+sum=`expr $1 + $2`
 if [ $? -eq 0 ]
 then
     echo "The sum of the numbers is - $sum"
